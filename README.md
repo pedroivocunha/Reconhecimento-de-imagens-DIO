@@ -29,9 +29,8 @@ Este projeto foi desenvolvido como parte do curso "Microsoft Certified: Azure AI
 
 ## Prints do Processo
 
-!Análise de Imagens
-!Reconhecimento de Texto
-!Reconhecimento Facial
+![image](https://github.com/user-attachments/assets/911938d7-5123-4459-828a-c7fabbc71619)
+
 
 ## Conclusão
 
